@@ -5,6 +5,8 @@ I am a computer science major at CSUF and I plan on graduating in 2027.
 
 ## Favorite CPSC 120L Labs
 
+My Github page: http://github.com/sofiaissa0104
+
 Lab 9:
 In lab 9 there were two parts. The first part dealt with building a mad lib which got user input for certain blanks in the sentence. It was very cool to build this model and to see if it runs properly with user input. The second part involved calculating the total for black jack. This was fun to do because it taught me about the game black jack and how to write a program that will automate this process. 
 
